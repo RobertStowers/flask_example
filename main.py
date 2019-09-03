@@ -20,7 +20,7 @@ def salvador():
 
 # Adding a new route, like a subdirectory
 @app.route("/stowers")
-def salvador():
+def stowers():
     return "Hello, Robert.  Welcome back!"
 
 
